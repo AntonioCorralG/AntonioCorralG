@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioCorralG
 - 👀 I’m interested in ... video games, netflix, and hiking
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...JavaScript, typescript, and react
 - 💞️ I’m looking to collaborate on ...learning
 - 📫 How to reach me ...
 
