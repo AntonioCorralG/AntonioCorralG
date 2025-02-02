@@ -1,4 +1,5 @@
 👋 Hi there! I'm Gonzalo, a front-end engineer passionate about creating accessible and beautiful web experiences.
+
 🎨 I specialize in:
 
 React & TypeScript
